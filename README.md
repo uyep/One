@@ -83,11 +83,16 @@ Awesome Mac&Windows
 *Android应用*
 * [GKD](https://gkd.li/) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP。
 * [Just (Video) Player](https://github.com/moneytoo/Player) - 基于ExoPlayer库的Android视频播放器。
+* [scrcpy](https://github.com/Genymobile/scrcpy) - 显示和控制您的 Android 设备。
 * [QtScrcpy](https://github.com/barry-ran/QtScrcpy?tab=readme-ov-file) - Android实时显示控制软件。
+* [escrcpy](https://github.com/viarotel-org/escrcpy) - 图形化 Scrcpy 用于显示和控制 Android 和由 Electron 驱动的设备。
+* [FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备。
 * [Uotan Toolbox](https://github.com/Uotan-Dev/UotanToolboxNT) - 为玩机发烧友而生的全新现代化工具箱。
 * [搞机工具箱](https://jamcz.com/) - 一款利用ADB（安卓调试桥）来控制手机的玩机工具。
 
 ### 其它应用
+* [MusicFree](https://github.com/maotoumao) - 插件化、定制化、无广告的免费音乐播放器。
+* [PDFgear](https://www.pdfgear.com/zh/) - 为全球用户提供全面、用户友好且易于访问的 PDF 工具。
 * [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - 提取和解密浏览器数据，支持多种数据类型，可在各种操作系统（macOS、Windows、Linux）上运行。
 * [Deskflow](https://github.com/deskflow/deskflow) - 可让您在 Windows、macOS 和 Linux 上的多台计算机之间共享一个鼠标和键盘。
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor) - 一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率。
@@ -173,6 +178,7 @@ Awesome Mac&Windows
 * [小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html) - 小鱼儿yr经过长期的学习总结和实践应用而写出来的一款小巧的优化设置辅助工具，绿色无污染。(包含系统，软件下载)。
 * [Defender Remover](https://github.com/ionuttbara/windows-defender-remover) - 用于删除 Windows 8.x、Windows 10（所有版本）和 Windows 11 中的 Windows Defender 的工具。
 * [Optimizer](https://github.com/hellzerg/optimizer) - 最好的 Windows 开源优化器。
+* [OFGB](https://github.com/xM4ddy/OFGB) - 用于从 Windows 11 各个位置删除广告的 GUI 工具。
 * [简化您的计算机使用](https://www.sordum.org/) - 简化您的计算机使用。
 * [Программы для MS Windows и Office](https://msfree.su/index.php?forums/32/) - 多款激活程序，来自俄罗斯的@Ratiborus，各种激活方式都有，常见的工具：AAct、KMS Tools Portable、W10 Digital Activation Program、KMSAuto++等。
 
@@ -200,10 +206,13 @@ Awesome Mac&Windows
 * [macOS系统下载](https://www.applex.net/pages/macos/)[![Freeware Icon]](wjtao1993&q1-6.)
 
 ### 软路由&NAS相关
+* [US.KG](https://nic.us.kg/) - US.KG 由 DigitalPlat 基金会运营和持有。我们的使命是免费为所有人或组织提供免费域名。[![Freeware Icon]](gmail&Wu-..)
+* [3322域名](http://www.pubyun.com/accounts/signin/) - （简称3322动态域名）是专业的互联网服务提供商。[![Freeware Icon]](wjtao1993&Wu-..)
+* [Cloudflare](https://www.cloudflare.com/) - 帮助构建更好的互联网。[![Freeware Icon]](gmail&Wu-..)
+* [Cloudflare-workers/pages代理脚本](https://github.com/yonggekkk/Cloudflare_vless_trojan) - CF-workers/pages代理脚本【Vless与Trojan】，Serv00三合一进程保活脚本。
 * [WebUI-Aria2](https://github.com/ziahamza/webui-aria2) - 该项目的目标是创建世界上最好的、最热门的 aria2 交互界面。
 * [小雅媒体库](https://fuliapp.top/) - 本项目支持AppleTV，安卓TV(智能电视)，手机，平板，电脑等所有平台，不需要科学。
 * [恩山无线论坛](https://www.right.com.cn/forum/) - 恩山无线论坛。[![Freeware Icon]](bsfqoo&Wu-..)
-* [3322域名](http://www.pubyun.com/accounts/signin/) - （简称3322动态域名）是专业的互联网服务提供商。[![Freeware Icon]](wjtao1993&Wu-..)
 * [N1盒子](https://github.com/wxfyes/N1packaging) - 基于flippy的打包Phicomm N1的openwrt。
 
 *黑群晖相关*
@@ -218,6 +227,7 @@ Awesome Mac&Windows
 * [GCPing](https://gcping.com/) - 用于向 Google Cloud 区域报告平均延迟时间。
 * [Lantern](https://lantern.io) - 快速且不受限制地访问您喜爱的网站和应用程序。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
 * [Clash for Windows Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - 提供clash for windows的汉化版, 汉化补丁以及汉化版Clash安装程序。
+* [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - Clash Verge 的延续 - 基于 Tauri 的 Clash Meta GUI（Windows、MacOS、Linux）。
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 下一代 ShadowsocksX。
 * [V2Ray神一样的工具们](https://www.v2ray.com/awesome/tools.html) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
 
