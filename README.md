@@ -227,19 +227,24 @@ Awesome Mac&Windows
 * [GCPing](https://gcping.com/) - 用于向 Google Cloud 区域报告平均延迟时间。
 * [Lantern](https://lantern.io) - 快速且不受限制地访问您喜爱的网站和应用程序。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
 * [Clash for Windows Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - 提供clash for windows的汉化版, 汉化补丁以及汉化版Clash安装程序。
-* [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - Clash Verge 的延续 - 基于 Tauri 的 Clash Meta GUI（Windows、MacOS、Linux）。
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 下一代 ShadowsocksX。
 * [V2Ray神一样的工具们](https://www.v2ray.com/awesome/tools.html) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
 
 *配置文件*
-* [Shadowrocket 规则](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。
+* [Shadowrocket 使用](https://www.shadowrocket.vip/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B) - Shadowrocket 使用教程快速入门篇。
+    * 其它配置 - [墨鱼](https://github.com/ddgksf2013/Profile/blob/master/Shadowrocket.conf)、[dishao123](https://github.com/dishao123/rules_script/blob/main/Shadowrocket/xhj.conf)、[Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)、
+
 * [Quantumult X Wiki Book](https://qx.atlucky.me/shi-yong-fang-fa/tui-jian-pei-zhi) - 汇聚了目前网络上的一些现有的Quantumult X教程中的相关内容整理而成。
-    * 其它配置 - [Orz-3](https://github.com/Orz-3/QuantumultX)、[dishao123](https://github.com/dishao123/rules_script)、[Quantumult X 资源解析器](https://github.com/KOP-XIAO/QuantumultX)、
+    * 其它配置 - [墨鱼](https://github.com/ddgksf2013/Profile/blob/master/QuantumultX.conf)、[Orz-3](https://github.com/Orz-3/QuantumultX/blob/master/Orz-3.conf)、[dishao123](https://github.com/dishao123/rules_script/blob/main/QuantumultX/quanx.conf)、[Quantumult X 资源解析器](https://github.com/KOP-XIAO/QuantumultX)、
 
 * [Surge 入门指南](https://wiki.surge.community/) - 汇聚了目前网络上的一些现有的Surge教程。
     * 其它配置 - [深巷有喵](https://github.com/Rabbit-Spec/Surge)、[Ling KeQing](https://surge.qingr.moe/)、
 
-* [一些合集] - [莫离](https://github.com/Moli-X/Resources)、[墨鱼](https://github.com/ddgksf2013/ddgksf2013)、[奶思](https://github.com/fmz200/wool_scripts)、[毒奶](https://github.com/limbopro)、[yfamily](https://github.com/deezertidal)、[blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)、
+* [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - Clash Verge 的延续 - 基于 Tauri 的 Clash Meta GUI（Windows、MacOS、Linux）。
+    * 其它配置 - [深巷有喵](https://github.com/Rabbit-Spec/Clash)、[墨鱼](https://github.com/ddgksf2013/Profile/blob/master/ClashforWindows.yaml)、[莫离](https://github.com/Moli-X/Resources/tree/main/Clash)、
+
+
+* [一些合集] - [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)、[莫离](https://github.com/Moli-X/Resources)、[墨鱼](https://github.com/ddgksf2013/ddgksf2013)、[奶思](https://github.com/fmz200/wool_scripts)、[毒奶](https://github.com/limbopro)、[dishao123](https://github.com/dishao123/rules_script)、[Orz-3](https://github.com/Orz-3/QuantumultX)、[yfamily](https://github.com/deezertidal)、
   
 *其它工具*
 * [Lucky爱分享](https://www.evan888.top/2062/) - BoxJs-Script-Hub-Sub-Store-等模块通用的前置教程。
