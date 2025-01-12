@@ -138,10 +138,10 @@ Awesome Mac&Windows
 * [Game Cheats Manager](https://github.com/dyang886/Game-Cheats-Manager) - 为玩家提供了一个高效管理游戏修改器的一站式解决方案。
 * [Steam数据库](https://steamdb.info) - Steam 上所有内容的数据库。
 * [Steam PY市场](https://steampy.com) - 为Steam玩家提供的游戏交易市场, 可以出售自己的Steam余额,低价购买Steam游戏,提供Steam游戏礼物代购,查询Steam余额,查看Steam额度等。
-* [UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/) - 多平台hosts修改。
 * [Watt Toolkit](https://github.com/BeyondDimension/SteamTools) - 原名 Steam++，是一个开源跨平台的多功能 Steam 工具箱。
 * [开发者边车](https://github.com/docmirror/dev-sidecar?tab=readme-ov-file) - github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速。
-
+* [UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/) - 多平台hosts修改。
+* [XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PS、NS、EA app & Origin、战网、Epic、育碧、Riot Games下载加速，修复Steam商店社区、GitHub访问。
 
 ## 系统&网络相关
 
