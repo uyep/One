@@ -110,7 +110,6 @@ proxy-groups:
   - {name: Apple, type: select, proxies: [DIRECT, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, 其它节点]}
   - {name: Microsoft, type: select, proxies: [DIRECT, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, 其它节点]}
   - {name: Steam, type: select, proxies: [DIRECT, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, 其它节点]}
-  - {name: OpenAI,   type: select, proxies: [美国节点, 香港节点, 台湾节点, 日本节点, 狮城节点, 其它节点]}
   - {name: Spotify, type: select, proxies: [DIRECT, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, 其它节点]}
   - {name: BiliBili, type: select, proxies: [DIRECT, 香港节点, 台湾节点]}
   - {name: Netflix, type: select, proxies: [台湾节点, 香港节点, 日本节点, 狮城节点, 美国节点, 其它节点]}
@@ -170,10 +169,10 @@ rules:
   - RULE-SET,Steam,Steam
   - RULE-SET,Spotify,Spotify
   - RULE-SET,BiliBili,BiliBili
+  - RULE-SET,OpenAI,美国节点
   - RULE-SET,Google,Proxies
   - RULE-SET,Github,Proxies
   - RULE-SET,Telegram,Proxies
-  - RULE-SET,OpenAI,OpenAI
   - RULE-SET,Netflix,Netflix
   - RULE-SET,ChinaIP,DIRECT
   - RULE-SET,ProxyLite,Proxies
