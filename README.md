@@ -91,7 +91,6 @@ Awesome Mac&Windows
 * [搞机工具箱](https://jamcz.com/) - 一款利用ADB（安卓调试桥）来控制手机的玩机工具。
 
 ### 其它应用
-* [MusicFree](https://github.com/maotoumao) - 插件化、定制化、无广告的免费音乐播放器。
 * [PDFgear](https://www.pdfgear.com/zh/) - 为全球用户提供全面、用户友好且易于访问的 PDF 工具。
 * [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - 提取和解密浏览器数据，支持多种数据类型，可在各种操作系统（macOS、Windows、Linux）上运行。
 * [Deskflow](https://github.com/deskflow/deskflow) - 可让您在 Windows、macOS 和 Linux 上的多台计算机之间共享一个鼠标和键盘。
@@ -275,12 +274,13 @@ Awesome Mac&Windows
 
 ### 音乐播放&下载
 * [HiFiNi](https://www.hifini.com/) - 一个由音乐爱好者维护的分享平台, 旨在解决问题互帮互助。[![Freeware Icon]](0h6f&q1-6.)
+* [MyFreeMP3](https://tools.liumingye.cn/music/#/) - 在线播放和下载。
+* [MusicFree](https://github.com/maotoumao) - 插件化、定制化、无广告的免费音乐播放器。
+* [洛雪音乐](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron + Vue 开发的音乐软件。
+* [Listen 1](https://listen1.github.io/listen1/) - 可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
 * [OKmusi](https://apopkit.com/mp3-downloader/) - 免费简单的MP3在线下载器。
 * [Музыка на любой вкус](https://mp3-banana.pro/) - 俄罗斯的一个音乐下载网站， 无需任何会员，没有广告，可以在线听歌下载。
 * [SoundCloud](https://soundcloud.com/discover) - SoundCloud 让人们能够发现和享受来自地球上最多样化的创作者社区的精选音乐。[![Freeware Icon]](gmail&Wu-..)
-* [洛雪音乐](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron + Vue 开发的音乐软件。
-* [Listen 1](https://listen1.github.io/listen1/) - 可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
-* [音乐下载1](https://music.y444.cn/#/)[音乐下载2](https://tool.liumingye.cn/music/?page=searchPage#/) - 两个简单的音乐下载网站。
 
 ### 视频观看&下载
 * [豌豆PRO](https://wandou.pro) - 一款影视爱好者的最佳观影平台。
