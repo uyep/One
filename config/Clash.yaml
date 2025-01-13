@@ -112,7 +112,6 @@ proxy-groups:
   - {name: Steam, type: select, proxies: [DIRECT, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, 其它节点]}
   - {name: Spotify, type: select, proxies: [DIRECT, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, 其它节点]}
   - {name: BiliBili, type: select, proxies: [DIRECT, 香港节点, 台湾节点]}
-  - {name: Netflix, type: select, proxies: [台湾节点, 香港节点, 日本节点, 狮城节点, 美国节点, 其它节点]}
   - {name: AdBlock, type: select, proxies: [REJECT,DIRECT]}
 
 #节点分组
@@ -131,14 +130,13 @@ rule-providers:
   Download:    {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Download/Download.yaml ,         path: ./RuleSet/Download.yaml    }
   Apple:       {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Apple/Apple_Classical.yaml,      path: ./ruleset/Apple.yaml       }
   Microsoft:   {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Microsoft/Microsoft.yaml ,       path: ./RuleSet/Microsoft.yaml   }
-  BiliBili:    {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/BiliBili/BiliBili.yaml,          path: ./ruleset/BiliBili.yaml    }
-  Spotify:     {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Spotify/Spotify.yaml ,          path: ./RuleSet/Spotify.yaml     }
   Steam:       {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Steam/Steam.yaml ,              path: ./RuleSet/Steam.yaml       }
+  Spotify:     {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Spotify/Spotify.yaml ,          path: ./RuleSet/Spotify.yaml     }
+  BiliBili:    {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/BiliBili/BiliBili.yaml,          path: ./ruleset/BiliBili.yaml    }
   OpenAI:      {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/OpenAI/OpenAI.yaml ,            path: ./RuleSet/OpenAI.yaml      }
   Github:      {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/GitHub/GitHub.yaml ,             path: ./RuleSet/Github.yaml      }
   Google:      {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Google/Google.yaml ,             path: ./RuleSet/Google.yaml      }
   Telegram:    {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Telegram/Telegram.yaml ,         path: ./RuleSet/Telegram.yaml    }
-  Netflix:     {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Netflix/Netflix_Classical_No_Resolve.yaml ,         path: ./RuleSet/Telegram.yaml    }
   Global:      {<<: *a6 , url: https://cdn.jsdelivr.net/gh/Moli-X/Resources@main/Clash/Rules/Global.yaml ,                                 path: ./RuleSet/Global.yaml      }
   China:       {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/China/China.yaml ,              path: ./RuleSet/China.yaml       }
   ProxyLite:   {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ProxyLite/ProxyLite.yaml ,       path: ./RuleSet/ProxyLite.yaml   }
@@ -173,7 +171,6 @@ rules:
   - RULE-SET,Google,Proxies
   - RULE-SET,Github,Proxies
   - RULE-SET,Telegram,Proxies
-  - RULE-SET,Netflix,Netflix
   - RULE-SET,ChinaIP,DIRECT
   - RULE-SET,ProxyLite,Proxies
 
