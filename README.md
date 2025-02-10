@@ -286,7 +286,7 @@ Awesome Mac&Windows
 * [豌豆PRO](https://wandou.pro) - 一款影视爱好者的最佳观影平台。
 * [茶杯狐](https://cupfox.app) - 努力让找电影变得简单。
 * [TELE影院](https://tgyyvip.com) - 大片，高清正版免费在线观看！
-* [蛋蛋赞影院](https://www.dandanzan10.top) - 蛋蛋赞影院。
+* [蛋蛋赞影院](https://www.dandanzan.me/) - 蛋蛋赞影院。
 * [M-Team - TP](https://kp.m-team.cc/login.php)[![Freeware Icon]](bsfqoo&Wu-..) - PT下载站。
 
 ### 资源整合网站
@@ -299,7 +299,7 @@ Awesome Mac&Windows
 * [电商视频学习论坛](http://www.jcxxzj.com) - 专注淘宝电商教程，免费更新，教程高清。[![Freeware Icon]](QQ登陆)
 
 ### 购物相关网站
-* [日亚](https://www.amazon.co.jp)[![Freeware Icon]](gmail&Wu-..)、[中邮海外购](https://buy.ems.com.cn)[![Freeware Icon]](手机&Wu82-39.)、[转运四方](http://www.transrush.com)[![Freeware Icon]](手机&q1-6.)、
+* [日亚](https://www.amazon.co.jp)[![Freeware Icon]](gmail&Wu-..)、[转中](https://www.uszcn.com/)[![Freeware Icon]](163&Wu-..)、[中邮海外购](https://buy.ems.com.cn)[![Freeware Icon]](163&Wu82-39.)、[转运四方](http://www.transrush.com)[![Freeware Icon]](163&q1-6.)、
 
 ### 股票相关网站
 * [海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.)、[淘股吧](https://www.taoguba.com.cn/)[![Freeware Icon]](手机&q1-6.)、[集思录](https://www.jisilu.cn)、
@@ -310,15 +310,16 @@ Awesome Mac&Windows
 * [中国结算](https://inv.chinaclear.cn)[![Freeware Icon]](手机&q1-6.)、
 
 ### Porn
-* [Mov18plus](https://krx18.com/) - 免費高清韩国电影在线看，无需下载。
-* [MISSAV](https://missav.com/) - 免費高清日本 AV 在線看，無需下載，高速播放沒有延遲，超過十萬部影片。
-* [ThisAV](https://missav.com/) - 免費高清日本 AV 在線看，無需下載，高速播放沒有延遲，超過十萬部影片。
 * [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
 * [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[![Freeware Icon]](gmail&Wu-..)
 * [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[![Freeware Icon]](bsfq&q1-6.)
 * [xHamster](https://zh.xhamster.com/) - 互联网上历史最久的成人视频网站之一。
+* [Mov18plus](https://krx18.com/) - 免費高清韩国电影在线看，无需下载。
+* [MISSAV](https://missav.ws/) - 免費高清日本 AV 在線看，無需下載。
 * [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
 * [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
+* [4Hu](https://4hu.tv/) - 本站永久免费观看。
+* [PornBest](https://t.me/pornbest_co) - 本站的常用網址。防止大家意外找不到。
 
 
 ## 软件下载网站
