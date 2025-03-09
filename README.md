@@ -29,7 +29,6 @@ Awesome Mac&Windows
     - [资源整合网站](#资源整合网站)
     - [其它乱七八糟的](#其它乱七八糟的)
     - [购物相关网站](#购物相关网站)
-    - [股票相关网站](#股票相关网站)
     - [Porn](#porn)
   - [软件下载网站](#软件下载网站)
     - [正版/介绍](#正版介绍)
@@ -173,6 +172,9 @@ Awesome Mac&Windows
 * [云萌 Windows 10+ 激活工具](https://cmwtat.cloudmoe.com/cn.html) - 支持 Windows 10 和 Windows 11 (x86/x64/ARM64)，最早发布版本构建于2017年1月。
 * [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 包含几乎所有激活方式，具有易操作的GUI窗口。
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - 专注于KMS激活，是一个批处理程序。
+* [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - 该项目旨在增强 Windows 上的工作环境。
+* [Winhance](https://github.com/memstechtips/Winhance) - 一款 PowerShell GUI 应用程序，旨在优化和定制您的 Windows 体验。
+* [Windows系统调校程序 By OlSoul](https://b.olsoul.com/) - 可以方便的对电脑进行一些设置，修复，内容多且实用。
 * [Windows 11 轻松设置](https://bbs.pcbeta.com/viewthread-1972024-1-1.html) - 原贴作者提供的网盘下载链接[百度网盘](https://pan.baidu.com/s/1fpm4nmCKeELmwKdSpxny1g?pwd=yb6d)&[123云盘](https://www.123pan.com/s/1Zj8Vv-8bbcv.html)[![Freeware Icon]](8888)。
 * [小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html) - 小鱼儿yr经过长期的学习总结和实践应用而写出来的一款小巧的优化设置辅助工具，绿色无污染。(包含系统，软件下载)。
 * [Defender Remover](https://github.com/ionuttbara/windows-defender-remover) - 用于删除 Windows 8.x、Windows 10（所有版本）和 Windows 11 中的 Windows Defender 的工具。
@@ -301,13 +303,6 @@ Awesome Mac&Windows
 ### 购物相关网站
 * [日亚](https://www.amazon.co.jp)[![Freeware Icon]](gmail&Wu-..)、[转中](https://www.uszcn.com/)[![Freeware Icon]](163&Wu-..)、[中邮海外购](https://buy.ems.com.cn)[![Freeware Icon]](163&Wu82-39.)、[转运四方](http://www.transrush.com)[![Freeware Icon]](163&q1-6.)、
 
-### 股票相关网站
-* [海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.)、[淘股吧](https://www.taoguba.com.cn/)[![Freeware Icon]](手机&q1-6.)、[集思录](https://www.jisilu.cn)、
-* [上证e互动](http://sns.sseinfo.com)、[深交所互动易](http://irm.cninfo.com.cn)、[巨潮资讯网](http://www.cninfo.com.cn/new/index)、
-* [上海证券报](https://www.cnstock.com)、[财联社](https://www.cls.cn)、[金融界](http://www.jrj.com.cn)、
-* [艾瑞网](https://www.iresearch.cn)、[乐晴智库](http://www.767stock.com)、
-* [东方财富](https://www.eastmoney.com)[![Freeware Icon]](手机&q1-6.)、[同花顺](https://www.10jqka.com.cn)[![Freeware Icon]](wj-93&q1-6)、[通达信](https://www.tdx.com.cn/)[![Freeware Icon]](手机&q1-6.)、
-* [中国结算](https://inv.chinaclear.cn)[![Freeware Icon]](手机&q1-6.)、
 
 ### Porn
 * [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
