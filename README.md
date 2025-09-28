@@ -67,10 +67,12 @@ Awesome Mac&Windows
 * [Total Uninstall](https://www.martau.com/zh-CN/) - 一款包含两个工作模块的全能卸载工具。
 
 *Mac必备应用*
-
 * [Homebrew](https://brew.sh/index_zh-cn#install) - 一款MacOS平台下的软件包管理工具,拥有安装、卸载、更新、查看、搜索等很多实用的功能。 ![Freeware][Freeware Icon]
+* [ProNotes](https://www.pronotes.app/) - ProNotes 是 Apple Notes 的扩展程序，它使您最喜欢的笔记应用程序使用起来更加愉快。
+* [CrossOver](https://www.codeweavers.com/crossover) - 在 MacOS 和 Linux 上 运行您的 Windows® 应用程序。
 * [Mounty for NTFS](https://mounty.app) - 一个轻巧的系统增强工具,可以让MacOS支持写入NTFS格式的分区或外接优盘、移动硬盘等。
 * [IINA](https://www.iina.io) - 一款 macOS 下的开源视频播放器。 [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
+* [Infuse](https://firecore.com/) - 一款适用于 iPhone、iPad、Apple TV、Mac 和 Vision 的优雅视频播放器。
 * [Downie 4](https://software.charliemonroe.net/downie/) - 支持多达近 1200 个视频站点的视频下载工具。
 * [Motrix](https://motrix.app/) - Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源。 [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [NeatDownloadManager](https://www.neatdownloadmanager.com/) - Neat Download Manager是一个免费的互联网下载管理器。
@@ -80,7 +82,7 @@ Awesome Mac&Windows
 * [MacZip](https://ezip.awehunt.com) - Mac平台上一款非常优秀且简洁易用的压缩解压软件。
 
 *Android应用*
-* [GKD](https://gkd.li/) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP。
+* [GKD](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP。
 * [Just (Video) Player](https://github.com/moneytoo/Player) - 基于ExoPlayer库的Android视频播放器。
 * [scrcpy](https://github.com/Genymobile/scrcpy) - 显示和控制您的 Android 设备。
 * [QtScrcpy](https://github.com/barry-ran/QtScrcpy?tab=readme-ov-file) - Android实时显示控制软件。
@@ -275,6 +277,8 @@ Awesome Mac&Windows
 * [爱给网](https://www.aigei.com) - 致力于为声音、影视、游戏、动画创作者，提供高品质、多品类、优秀的创意作品服务。
 
 ### 音乐播放&下载
+* [Universal Production Music](https://www.universalproductionmusic.com/en-gb) - 我们的全球资源库涵盖各种类型、氛围和情感，是您获取所有媒体素材的首选。我们在超过 33 个国家/地区设有办事处，提供涵盖电影、电视、广告、游戏、广播、播客、应用程序、可持续制作等各个领域的素材。
+* [Discogs](https://www.discogs.com/) - Discogs 是一个音乐发现和唱片收集平台，由来自世界各地的狂热粉丝社区提供支持。
 * [HiFiNi](https://www.hifini.com/) - 一个由音乐爱好者维护的分享平台, 旨在解决问题互帮互助。[![Freeware Icon]](0h6f&q1-6.)
 * [MyFreeMP3](https://tools.liumingye.cn/music/#/) - 在线播放和下载。
 * [MusicFree](https://github.com/maotoumao) - 插件化、定制化、无广告的免费音乐播放器。
@@ -305,6 +309,7 @@ Awesome Mac&Windows
 
 
 ### Porn
+* [Orgasm Sound Library](https://orgasmsoundlibrary.com/#gallery) - 真实性高潮声音库。
 * [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
 * [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[![Freeware Icon]](gmail&Wu-..)
 * [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[![Freeware Icon]](bsfq&q1-6.)
