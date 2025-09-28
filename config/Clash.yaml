@@ -119,7 +119,7 @@ proxy-groups:
   - {name: Microsoft, type: select, proxies: [DIRECT, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, 其它节点]}
   - {name: Steam, type: select, proxies: [DIRECT, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, 其它节点]}
   - {name: Spotify, type: select, proxies: [DIRECT, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, 其它节点]}
-  - {name: BiliBili, type: select, proxies: [DIRECT, 香港节点, 台湾节点]}
+  - {name: BiliBili, type: select, proxies: [DIRECT, 香港节点, 台湾节点, 其它节点]}
   - {name: AdBlock, type: select, proxies: [REJECT,DIRECT]}
 
 # 分流规则 
