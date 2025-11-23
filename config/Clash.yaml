@@ -132,9 +132,8 @@ rule-providers:
   Microsoft:   {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Microsoft/Microsoft.yaml ,       path: ./RuleSet/Microsoft.yaml   }
   Steam:       {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Steam/Steam.yaml ,              path: ./RuleSet/Steam.yaml       }
   Spotify:     {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Spotify/Spotify.yaml ,          path: ./RuleSet/Spotify.yaml     }
-  BiliBili:    {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/BiliBili/BiliBili.yaml,          path: ./ruleset/BiliBili.yaml    }
-  OpenAI:      {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/OpenAI/OpenAI.yaml ,            path: ./RuleSet/OpenAI.yaml      }
-  BardAI:      {<<: *a6 , url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BardAI/BardAI.yaml ,       path: ./RuleSet/BardAI.yaml      }
+  BiliBili:    {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/BiliBili/BiliBili.yaml ,         path: ./ruleset/BiliBili.yaml    }
+  AI:          {<<: *a6 , url: https://gist.githubusercontent.com/ddgksf2013/cb4121e8b5c5d865cc949cb8120320c4/raw/Ai.yaml ,                path: ./RuleSet/AI.yaml          }
   Github:      {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/GitHub/GitHub.yaml ,             path: ./RuleSet/Github.yaml      }
   Google:      {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Google/Google.yaml ,             path: ./RuleSet/Google.yaml      }
   Telegram:    {<<: *a6 , url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Telegram/Telegram.yaml ,         path: ./RuleSet/Telegram.yaml    }
@@ -163,13 +162,12 @@ rules:
   - RULE-SET,Direct,DIRECT
   - RULE-SET,Lan,DIRECT
   - RULE-SET,Download,DIRECT
+  - RULE-SET,AI,美国节点
   - RULE-SET,Apple,Apple
   - RULE-SET,Microsoft,Microsoft
   - RULE-SET,Steam,Steam
   - RULE-SET,Spotify,Spotify
   - RULE-SET,BiliBili,BiliBili
-  - RULE-SET,OpenAI,美国节点
-  - RULE-SET,BardAI,美国节点
   - RULE-SET,Google,Proxies
   - RULE-SET,Github,Proxies
   - RULE-SET,Telegram,Proxies
