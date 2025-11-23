@@ -238,7 +238,7 @@ Awesome Mac&Windows
     * 其它配置 - [墨鱼](https://github.com/ddgksf2013/Profile/blob/master/Shadowrocket.conf)、[dishao123](https://github.com/dishao123/rules_script/blob/main/Shadowrocket/xhj.conf)、[Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)、
 
 * [Quantumult X Wiki Book](https://qx.atlucky.me/shi-yong-fang-fa/tui-jian-pei-zhi) - 汇聚了目前网络上的一些现有的Quantumult X教程中的相关内容整理而成。
-    * 其它配置 - [墨鱼](https://github.com/ddgksf2013/Profile/blob/master/QuantumultX.conf)、[Orz-3](https://github.com/Orz-3/QuantumultX/blob/master/Orz-3.conf)、[dishao123](https://github.com/dishao123/rules_script/blob/main/QuantumultX/quanx.conf)、[Quantumult X 资源解析器](https://github.com/KOP-XIAO/QuantumultX)、
+    * 其它配置 - [墨鱼](https://gist.githubusercontent.com/ddgksf2013/cf38fcf85651f6b467df590da03dfcf8/raw/QuantumultX.conf)、[Orz-3](https://github.com/Orz-3/QuantumultX/blob/master/Orz-3.conf)、[dishao123](https://github.com/dishao123/rules_script/blob/main/QuantumultX/quanx.conf)、[Quantumult X 资源解析器](https://github.com/KOP-XIAO/QuantumultX)、
 
 * [Surge 入门指南](https://wiki.surge.community/) - 汇聚了目前网络上的一些现有的Surge教程。
     * 其它配置 - [深巷有喵](https://github.com/Rabbit-Spec/Surge)、[Ling KeQing](https://surge.qingr.moe/)、
@@ -263,6 +263,7 @@ Awesome Mac&Windows
 
 ### 在线工具
 * [中国色](http://zhongguose.com) - 中国传统颜色。
+* [123APPS](https://123apps.com/cn/) - 用於影片、音訊、PDF 與檔案轉換的線上工具。
 * [FlightAware](https://zh.flightaware.com) - 全球实时航班交通。
 * [Сайт с рекламой](https://checkadblock.ru) - 带有检查拦截器广告的网站。
 * [SimilarWeb](https://www.similarsites.com) - 使用 Similarsites.com（可让您浏览相关内容的扩展程序）发现最佳网站并探索竞争对手和相关网站。
@@ -306,7 +307,7 @@ Awesome Mac&Windows
 
 ### 购物相关网站
 * [日亚](https://www.amazon.co.jp)[![Freeware Icon]](gmail&Wu-..)、[转中](https://www.uszcn.com/)[![Freeware Icon]](163&Wu-..)、[中邮海外购](https://buy.ems.com.cn)[![Freeware Icon]](163&Wu82-39.)、[转运四方](http://www.transrush.com)[![Freeware Icon]](163&q1-6.)、
-
+* [The Last Hunt](https://www.thelasthunt.com/) - 于 2010 年在蒙特利尔创立，是加拿大唯一一家专门销售折扣户外服装和装备的网站。
 
 ### Porn
 * [Orgasm Sound Library](https://orgasmsoundlibrary.com/#gallery) - 真实性高潮声音库。
