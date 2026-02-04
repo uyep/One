@@ -176,6 +176,7 @@ Awesome Mac&Windows
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - 专注于KMS激活，是一个批处理程序。
 * [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - 该项目旨在增强 Windows 上的工作环境。
 * [Winhance](https://github.com/memstechtips/Winhance) - 一款 PowerShell GUI 应用程序，旨在优化和定制您的 Windows 体验。
+* [ZyperWin++](https://github.com/ZyperWave/ZyperWinOptimize) - 一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
 * [Windows系统调校程序 By OlSoul](https://b.olsoul.com/) - 可以方便的对电脑进行一些设置，修复，内容多且实用。
 * [Windows 11 轻松设置](https://bbs.pcbeta.com/viewthread-1972024-1-1.html) - 原贴作者提供的网盘下载链接[百度网盘](https://pan.baidu.com/s/1fpm4nmCKeELmwKdSpxny1g?pwd=yb6d)&[123云盘](https://www.123pan.com/s/1Zj8Vv-8bbcv.html)[![Freeware Icon]](8888)。
 * [小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html) - 小鱼儿yr经过长期的学习总结和实践应用而写出来的一款小巧的优化设置辅助工具，绿色无污染。(包含系统，软件下载)。
@@ -238,7 +239,7 @@ Awesome Mac&Windows
     * 其它配置 - [墨鱼](https://github.com/ddgksf2013/Profile/blob/master/Shadowrocket.conf)、[dishao123](https://github.com/dishao123/rules_script/blob/main/Shadowrocket/xhj.conf)、[Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)、
 
 * [Quantumult X Wiki Book](https://qx.atlucky.me/shi-yong-fang-fa/tui-jian-pei-zhi) - 汇聚了目前网络上的一些现有的Quantumult X教程中的相关内容整理而成。
-    * 其它配置 - [墨鱼](https://gist.githubusercontent.com/ddgksf2013/cf38fcf85651f6b467df590da03dfcf8/raw/QuantumultX.conf)、[Orz-3](https://github.com/Orz-3/QuantumultX/blob/master/Orz-3.conf)、[dishao123](https://github.com/dishao123/rules_script/blob/main/QuantumultX/quanx.conf)、[Quantumult X 资源解析器](https://github.com/KOP-XIAO/QuantumultX)、
+    * 其它配置 - [墨鱼](https://ddgksf2013.top/)、[Orz-3](https://github.com/Orz-3/QuantumultX/blob/master/Orz-3.conf)、[dishao123](https://github.com/dishao123/rules_script/blob/main/QuantumultX/quanx.conf)、[Quantumult X 资源解析器](https://github.com/KOP-XIAO/QuantumultX)、
 
 * [Surge 入门指南](https://wiki.surge.community/) - 汇聚了目前网络上的一些现有的Surge教程。
     * 其它配置 - [深巷有喵](https://github.com/Rabbit-Spec/Surge)、[Ling KeQing](https://surge.qingr.moe/)、
@@ -262,11 +263,12 @@ Awesome Mac&Windows
 *一些看起来不错的网站。*
 
 ### 在线工具
-* [中国色](http://zhongguose.com) - 中国传统颜色。
+* [PaywallBuster](https://paywallbuster.com/) - 将各种致力于绕过令人烦恼的付费墙的网站整合到一个简洁高效的平台上。
+* [Convertio](https://convertio.co/zh/) - 以用户体验为核心的文件转换网站。
 * [123APPS](https://123apps.com/cn/) - 用於影片、音訊、PDF 與檔案轉換的線上工具。
-* [FlightAware](https://zh.flightaware.com) - 全球实时航班交通。
 * [Сайт с рекламой](https://checkadblock.ru) - 带有检查拦截器广告的网站。
 * [SimilarWeb](https://www.similarsites.com) - 使用 Similarsites.com（可让您浏览相关内容的扩展程序）发现最佳网站并探索竞争对手和相关网站。
+* [WzSLinker](https://www.hrfocus.top/) - 网页与炒股软件联动工具。
 * [租会员](http://www.zuxunlei.cn) - 迅雷、百度优、酷账号租用。
 
 ### 免费资源
@@ -301,6 +303,8 @@ Awesome Mac&Windows
 * [聚BT](https://jubt.top/)[地址发布页](https://gitlab.com/jubt/home) - 聚合最优质的BT、磁力资源。
 
 ### 其它乱七八糟的
+* [中国色](http://zhongguose.com) - 中国传统颜色。
+* [FlightAware](https://zh.flightaware.com) - 全球实时航班交通。
 * [全历史](https://www.allhistory.com/) - 以AI知识图谱为核心引擎,通过高度时空化、关联化数据的方式构造及展现数字人文内容,尤其是历史知识。
 * [A+医学百科](http://www.a-hospital.com) - 一个开放的在线医学百科全书网站。
 * [电商视频学习论坛](http://www.jcxxzj.com) - 专注淘宝电商教程，免费更新，教程高清。[![Freeware Icon]](QQ登陆)
@@ -316,7 +320,7 @@ Awesome Mac&Windows
 * [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[![Freeware Icon]](bsfq&q1-6.)
 * [xHamster](https://zh.xhamster.com/) - 互联网上历史最久的成人视频网站之一。
 * [Mov18plus](https://krx18.com/) - 免費高清韩国电影在线看，无需下载。
-* [MISSAV](https://missav.ws/) - 免費高清日本 AV 在線看，無需下載。
+* [MISSAV](https://missav.ai/) - 免費高清日本 AV 在線看，無需下載。
 * [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
 * [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
 * [4Hu](https://4hu.tv/) - 本站永久免费观看。
