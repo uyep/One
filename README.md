@@ -29,7 +29,6 @@ Awesome Mac&Windows
     - [资源整合网站](#资源整合网站)
     - [其它乱七八糟的](#其它乱七八糟的)
     - [购物相关网站](#购物相关网站)
-    - [Porn](#porn)
   - [软件下载网站](#软件下载网站)
     - [正版/介绍](#正版介绍)
     - [盗版软件下载网站黑名单](#盗版软件下载网站黑名单)
@@ -44,12 +43,6 @@ Awesome Mac&Windows
 
 *Windows必备应用*
 
-* [7-Zip](https://www.7-zip.org) - 一款拥有极高压缩比的开源压缩软件。 ![Open-Source Software][OSS Icon]
-* [foobar2000(汉化)](https://www.cnblogs.com/asionwu) - 一个 Windows 平台下的高级音频播放器。
-* [foobox](https://github.com/dream7180/foobox-cn) - 一个 foobar2000 默认用户界面 (DUI) 的皮肤配置。
-* [MPC-HC](https://github.com/clsid2/mpc-hc) - 一款适用于 Windows 的免费开源视频和音频播放器。
-* [IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - 用于激活和重置Internet Download Manager试用版的开源工具。
-* [PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。
 * [QuickLook](https://github.com/QL-Win/QuickLook) - 快速浏览(为 Windows 带来 macOS 的“快速查看”功能。)
 * [Wox](http://www.wox.one/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]  
 * [Listary](https://www.listary.com/) - 一款实用的搜索工具。
@@ -57,27 +50,33 @@ Awesome Mac&Windows
 * [Quicker](https://getquicker.net/) - 一个 “超级” 启动器 它不仅用可以帮您打开软件或文件, 更重要的是可以启动各类“操作”。
 * [Snipaste](https://zh.snipaste.com/) - 一款效率极高、功能非常丰富的截图+贴图小工具。
 * [Honeyview](https://cn.bandisoft.com/honeyview/) - 一款快速的图片查看器。 ![Freeware][Freeware Icon]
+* [7-Zip](https://www.7-zip.org) - 一款拥有极高压缩比的开源压缩软件。 ![Open-Source Software][OSS Icon]
+* [foobar2000(汉化)](https://www.cnblogs.com/asionwu) - 一个 Windows 平台下的高级音频播放器。
+* [foobox](https://github.com/dream7180/foobox-cn) - 一个 foobar2000 默认用户界面 (DUI) 的皮肤配置。
+* [MPC-HC](https://github.com/clsid2/mpc-hc) - 一款适用于 Windows 的免费开源视频和音频播放器。
+* [PotPlayer](https://potplayer.tv) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。
 * [Rufus](https://rufus.ie/zh/) - 一个帮助格式化和创建可启动USB闪存驱动器的工具。
 * [UltraISO](https://www.ultraiso.com/) - 一款功能强大而又方便实用的光盘映像文件制作/编辑/转换工具。
 * [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 用于Microsoft Windows平台的磁盘空间分析。
 * [WizTree](https://diskanalyzer.com/) - 一款适用于 Windows 的超高速磁盘空间分析器实用程序。
 * [TreeSize](https://treesize.net/) - 一款功能强大的 Windows 磁盘管理工具。
+* [IObit Unlocker](https://www.iobit.com/en/iobit-unlocker.php) - Windows上“无法删除”问题的解决方案。
 * [Geek Uninstaller](https://geekuninstaller.com/) - 一个简单但功能强大且快速的实用程序。
 * [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html) - 彻底卸载顽固软件、Windows 应用程序和浏览器扩展。
 * [Total Uninstall](https://www.martau.com/zh-CN/) - 一款包含两个工作模块的全能卸载工具。
 
 *Mac必备应用*
-* [Homebrew](https://brew.sh/index_zh-cn#install) - 一款MacOS平台下的软件包管理工具,拥有安装、卸载、更新、查看、搜索等很多实用的功能。 ![Freeware][Freeware Icon]
-* [ProNotes](https://www.pronotes.app/) - ProNotes 是 Apple Notes 的扩展程序，它使您最喜欢的笔记应用程序使用起来更加愉快。
-* [CrossOver](https://www.codeweavers.com/crossover) - 在 MacOS 和 Linux 上 运行您的 Windows® 应用程序。
-* [Mounty for NTFS](https://mounty.app) - 一个轻巧的系统增强工具,可以让MacOS支持写入NTFS格式的分区或外接优盘、移动硬盘等。
+* [Homebrew](https://brew.sh/) - 一款MacOS平台下的软件包管理工具,拥有安装、卸载、更新、查看、搜索等很多实用的功能。 ![Freeware][Freeware Icon]
 * [IINA](https://www.iina.io) - 一款 macOS 下的开源视频播放器。 [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
 * [Infuse](https://firecore.com/) - 一款适用于 iPhone、iPad、Apple TV、Mac 和 Vision 的优雅视频播放器。
 * [Downie 4](https://software.charliemonroe.net/downie/) - 支持多达近 1200 个视频站点的视频下载工具。
+* [ProNotes](https://www.pronotes.app/) - ProNotes 是 Apple Notes 的扩展程序，它使您最喜欢的笔记应用程序使用起来更加愉快。
+* [balenaEtcher](https://www.balena.io/etcher/) - 一款简单好用的开源跨平台刻录工具。
+* [CrossOver](https://www.codeweavers.com/crossover) - 在 MacOS 和 Linux 上 运行您的 Windows® 应用程序。
+* [Mounty for NTFS](https://mounty.app) - 一个轻巧的系统增强工具,可以让MacOS支持写入NTFS格式的分区或外接优盘、移动硬盘等。
 * [Motrix](https://motrix.app/) - Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源。 [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [NeatDownloadManager](https://www.neatdownloadmanager.com/) - Neat Download Manager是一个免费的互联网下载管理器。
 * [BetterZip](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。
-* [balenaEtcher](https://www.balena.io/etcher/) - 一款简单好用的开源跨平台刻录工具。
 * Meta - 一款Mac平台的音乐元标签数据编辑工具。
 * [MacZip](https://ezip.awehunt.com) - Mac平台上一款非常优秀且简洁易用的压缩解压软件。
 
@@ -146,23 +145,22 @@ Awesome Mac&Windows
 ## 系统&网络相关
 
 ### WinPE
-* [SysRi](https://sysri.cn/) - 一个纯净、强大、易用的系统重装工具。
-* [Ventoy](https://www.ventoy.net/cn/index.html) - 一款开源免费的多合一系统安装启动盘制作工具。[![Open-Source Software][OSS Icon]](https://github.com/ventoy/Ventoy/releases)
-* [PE测试列表](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426217&extra=page%3D1) - Ventoy PE测试列表（同时收集启动有问题的PE）。[![Freeware Icon]](bsfqoo&Li-..)
+* [Ventoy](https://www.ventoy.net/cn/index.html) - 一款开源免费的多合一系统安装启动盘制作工具。[![Open-Source Software][OSS Icon]](https://github.com/ventoy/Ventoy/releases)[PE测试列表](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426217&extra=page%3D1)[![Freeware Icon]](bsfqoo&Li-..)
+* [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](754860900&188889686&2418287764&437356033&760862083&10832088&8127087)
 * [WePE](https://www.wepe.com.cn) - 一款纯净无广告无软件植入的绿色好用的 WinPE 系统维护工具。
+* [优启通](https://www.upe.net/) - IT天空精心打造的一款系统预安装环境（PE）。
 * [FirPE](https://firpe.cn) - 也许是最适合年轻人使用的第三方WinPE~。
+* [HotPE](https://www.hotpe.top/) - 一个纯净、强大、优雅的PE工具箱。
+* [SysRi](https://sysri.cn/) - 一个纯净、强大、易用的系统重装工具。
 * [USBOS](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=349965) - USBOS。
 * [雷电PE](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=426252) - Lightning PE。
-* [优启通](https://www.upe.net/) - IT天空精心打造的一款系统预安装环境（PE）。
-* [U盘魔术师](https://www.sysceo.com/usm) - 简称USM，由系统总裁网站开发研制。
-* [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](754860900&188889686&2418287764&437356033&760862083&10832088&8127087)
-* [Dawn PE & Pure PE](https://www.dawnpe.com/) - 由晨云网络倾力打造的一款预安装 PE 环境，结合广大电脑爱好者的需求，操作简单，功能强大，兼容性强。
-* [HotPE](https://www.hotpe.top/) - 一个纯净、强大、优雅的PE工具箱。
+* [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
 * [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573) - 应用超多，体积巨大，确是一艘PE航母！
+* [Dawn PE & Pure PE](https://www.dawnpe.com/) - 由晨云网络倾力打造的一款预安装 PE 环境，结合广大电脑爱好者的需求，操作简单，功能强大，兼容性强。
+* [U盘魔术师](https://www.sysceo.com/usm) - 简称USM，由系统总裁网站开发研制。
 * [金狐系统维护盘](http://www.jinhu.me/default.asp?cateID=6) - 相伴十四载！感谢有你！
 * [优启时代](https://www.uqiba.com/) [存档](http://jhsoft.ysepan.com/) - USB启动技术分享。
 * [杏雨梨云](https://www.xyboot.com/) - 杏雨梨云启动维护系统。
-* [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
 * [插件包](https://zfile.edgeless.top/) - Edgeless插件包，兼容FirPE。
 
 ### 操作系统
@@ -313,18 +311,6 @@ Awesome Mac&Windows
 * [日亚](https://www.amazon.co.jp)[![Freeware Icon]](gmail&Wu-..)、[转中](https://www.uszcn.com/)[![Freeware Icon]](163&Wu-..)、[中邮海外购](https://buy.ems.com.cn)[![Freeware Icon]](163&Wu82-39.)、[转运四方](http://www.transrush.com)[![Freeware Icon]](163&q1-6.)、
 * [The Last Hunt](https://www.thelasthunt.com/) - 于 2010 年在蒙特利尔创立，是加拿大唯一一家专门销售折扣户外服装和装备的网站。
 
-### Porn
-* [Orgasm Sound Library](https://orgasmsoundlibrary.com/#gallery) - 真实性高潮声音库。
-* [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
-* [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[![Freeware Icon]](gmail&Wu-..)
-* [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[![Freeware Icon]](bsfq&q1-6.)
-* [xHamster](https://zh.xhamster.com/) - 互联网上历史最久的成人视频网站之一。
-* [Mov18plus](https://krx18.com/) - 免費高清韩国电影在线看，无需下载。
-* [MISSAV](https://missav.ai/) - 免費高清日本 AV 在線看，無需下載。
-* [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
-* [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
-* [4Hu](https://4hu.tv/) - 本站永久免费观看。
-* [PornBest](https://t.me/pornbest_co) - 本站的常用網址。防止大家意外找不到。
 
 
 ## 软件下载网站
