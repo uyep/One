@@ -154,14 +154,13 @@ Awesome Mac&Windows
 * [SysRi](https://sysri.cn/) - 一个纯净、强大、易用的系统重装工具。
 * [USBOS](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=349965) - USBOS。
 * [雷电PE](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=426252) - Lightning PE。
-* [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
+* [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。[插件包](https://zfile.edgeless.top/)，兼容FirPE。
 * [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573) - 应用超多，体积巨大，确是一艘PE航母！
 * [Dawn PE & Pure PE](https://www.dawnpe.com/) - 由晨云网络倾力打造的一款预安装 PE 环境，结合广大电脑爱好者的需求，操作简单，功能强大，兼容性强。
 * [U盘魔术师](https://www.sysceo.com/usm) - 简称USM，由系统总裁网站开发研制。
 * [金狐系统维护盘](http://www.jinhu.me/default.asp?cateID=6) - 相伴十四载！感谢有你！
 * [优启时代](https://www.uqiba.com/) [存档](http://jhsoft.ysepan.com/) - USB启动技术分享。
 * [杏雨梨云](https://www.xyboot.com/) - 杏雨梨云启动维护系统。
-* [插件包](https://zfile.edgeless.top/) - Edgeless插件包，兼容FirPE。
 
 ### 操作系统
 
