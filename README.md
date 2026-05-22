@@ -18,7 +18,7 @@ Awesome Mac&Windows
     - [Game](#game)
   - [系统\&网络相关](#系统网络相关)
     - [WinPE](#winpe)
-    - [操作系统](#操作系统)
+    - [系统相关](#系统相关)
     - [软路由\&NAS相关](#软路由nas相关)
     - [科学上网](#科学上网)
   - [在线资源](#在线资源)
@@ -162,45 +162,43 @@ Awesome Mac&Windows
 * [优启时代](https://www.uqiba.com/) [存档](http://jhsoft.ysepan.com/) - USB启动技术分享。
 * [杏雨梨云](https://www.xyboot.com/) - 杏雨梨云启动维护系统。
 
-### 操作系统
+### 系统相关
 
-*Windows设置&激活*
+*Windows系统激活*
 
-* [[微零微]-Windows/Office全系列激活教程](https://jihuowin.com/index.php) - Windows系统一句命令激活[永久]。
-* [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts) - 开源 Windows 和 Office 激活器，具有 HWID、Ohook、KMS38 和在线 KMS 激活方法以及高级故障排除功能。
-* [云萌 Windows 10+ 激活工具](https://cmwtat.cloudmoe.com/cn.html) - 支持 Windows 10 和 Windows 11 (x86/x64/ARM64)，最早发布版本构建于2017年1月。
 * [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 包含几乎所有激活方式，具有易操作的GUI窗口。
-* [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - 专注于KMS激活，是一个批处理程序。
-* [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - 该项目旨在增强 Windows 上的工作环境。
-* [Winhance](https://github.com/memstechtips/Winhance) - 一款 PowerShell GUI 应用程序，旨在优化和定制您的 Windows 体验。
-* [ZyperWin++](https://github.com/ZyperWave/ZyperWinOptimize) - 一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
-* [Windows系统调校程序 By OlSoul](https://b.olsoul.com/) - 可以方便的对电脑进行一些设置，修复，内容多且实用。
-* [Windows 11 轻松设置](https://bbs.pcbeta.com/viewthread-1972024-1-1.html) - 原贴作者提供的网盘下载链接[百度网盘](https://pan.baidu.com/s/1fpm4nmCKeELmwKdSpxny1g?pwd=yb6d)&[123云盘](https://www.123pan.com/s/1Zj8Vv-8bbcv.html)[![Freeware Icon]](8888)。
-* [小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html) - 小鱼儿yr经过长期的学习总结和实践应用而写出来的一款小巧的优化设置辅助工具，绿色无污染。(包含系统，软件下载)。
-* [Defender Remover](https://github.com/ionuttbara/windows-defender-remover) - 用于删除 Windows 8.x、Windows 10（所有版本）和 Windows 11 中的 Windows Defender 的工具。
-* [Optimizer](https://github.com/hellzerg/optimizer) - 最好的 Windows 开源优化器。
-* [OFGB](https://github.com/xM4ddy/OFGB) - 用于从 Windows 11 各个位置删除广告的 GUI 工具。
-* [简化您的计算机使用](https://www.sordum.org/) - 简化您的计算机使用。
+* [Microsoft Activation Scripts (MAS)](https://massgrave.dev) - 开源 Windows 和 Office 激活器，具有 HWID、Ohook、KMS38 和在线 KMS 激活方法以及高级故障排除功能。
+* [[微零微]-Windows/Office全系列激活教程](https://jihuowin.com/index.php) - Windows系统一句命令激活[永久]。
+* [云萌 Windows 10+ 激活工具](https://cmwtat.cloudmoe.com/cn.html) - 支持 Windows 10 和 Windows 11 (x86/x64/ARM64)，最早发布版本构建于2017年1月。
 * [Программы для MS Windows и Office](https://msfree.su/index.php?forums/32/) - 多款激活程序，来自俄罗斯的@Ratiborus，各种激活方式都有，常见的工具：AAct、KMS Tools Portable、W10 Digital Activation Program、KMSAuto++等。
 
-*Windows镜像&软件*
+*Windows系统设置*
+
+* [Optimizer](https://github.com/hellzerg/optimizer) - 最好的 Windows 开源优化器。
+* [Winhance](https://github.com/memstechtips/Winhance) - 一款基于C#开发的Windows系统增强工具，专为Windows 10和Windows 11用户设计。它集系统清理、性能优化和个性化定制于一身，无需重新安装操作系统即可实现UnattendedWinstall提供的大部分功能。
+* [ZyperWin++](https://github.com/ZyperWave/ZyperWinOptimize) - 一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
+* [小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html) - 小鱼儿yr经过长期的学习总结和实践应用而写出来的一款小巧的优化设置辅助工具，绿色无污染。(包含系统，软件下载)。
+* [Windows系统调校程序 By OlSoul](https://b.olsoul.com/) - 可以方便的对电脑进行一些设置，修复，内容多且实用。
+* [Windows 11 轻松设置](https://bbs.pcbeta.com/viewthread-1972024-1-1.html) - 原贴作者提供的网盘下载链接[百度网盘](https://pan.baidu.com/s/1fpm4nmCKeELmwKdSpxny1g?pwd=yb6d)&[123云盘](https://www.123pan.com/s/1Zj8Vv-8bbcv.html)[![Freeware Icon]](8888)。
+* [简化您的计算机使用](https://www.sordum.org/) - 简化您的计算机使用。
+* [Defender Remover](https://github.com/ionuttbara/windows-defender-remover) - 用于删除 Windows 8.x、Windows 10（所有版本）和 Windows 11 中的 Windows Defender 的工具。
+* [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - 可定制底部任务栏左侧区域样式，提供 Win11、Win10、Win10 XProPatcher 定制版三种风格，支持多显示器任务栏对齐、图标合并方式等细节设置。
+
+*Windows系统下载*
 
 * [WinNew](https://winnew.cn/) - WinNew是一个获取原版Windows镜像的网站， 镜像来自于Windows更新服务器，提供直链下载。原汁原味，纯净无修改！
 * [HelloWindows](https://hellowindows.cn) - 精校 完整 极致 Windows系统下载仓储站(包含Office，激活工具)。
 * [系统库](https://www.xitongku.com) - 一个提供MSDN原版系统和安装教程的网站，附带各种原版office。
 * [山己几子木](https://msdn.sjjzm.com) - 把镜像文件中所有版本列出，并将镜像文件名称以中文显示。
-* [ITELLYOU](https://next.itellyou.cn)([旧](https://msdn.itellyou.cn)) - 提供可靠的原版软件。
 * [TWM000](https://twm000.top) - TWM000[[网盘链接](https://www.123pan.com/s/zX5A-o9DWd.html)]。
-* [Puresys](https://www.puresys.net) - 以纯净为第一要义，为广大网友提供一个便捷、安全的下载站(包含PE下载)。
-* [吻妻系统](https://www.newxitong.com/) - 一如既往的品质，不流氓，不欺骗，不夸大！一直在改进，只为做得更好！万千用户的信赖，吻妻的品质保证！
-* [宋永志博客 - 系统爱好者](http://www.songyongzhi.com) - 宋永志博客，知名系统下载站。
 * [远航技术](https://www.far123.com/) - 主要用来和大家分享优秀软件及电脑技巧。
+* [宋永志博客](http://www.songyongzhi.com) - 宋永志博客，知名系统下载站。
 * [极简系统](https://www.sysmini.com) - 极简系统从2015年到现在，转眼已经走过6个年头。
-* [小小系统迷](http://www.ilovext.com) - 专注提供纯净版系统和绿色软件的网站！
 * [爱纯净](http://www.aichunjing.com/jhgj1/) - 爱纯净系统(包含激活工具下载)。
+* [系统下载吧](http://xtxzb.com) - 致力于分享稳定、流畅、安全、快捷的系统。
+* [吻妻系统](https://www.newxitong.com/) - 一如既往的品质，不流氓，不欺骗，不夸大！一直在改进，只为做得更好！万千用户的信赖，吻妻的品质保证！
+* [Puresys](https://www.puresys.net) - 以纯净为第一要义，为广大网友提供一个便捷、安全的下载站(包含PE下载)。
 * [AtlasOS](https://atlasos.net) - 一个开放的Windows操作系统，旨在优化性能和延迟。
-* [Windsys Project](https://windsys.win) - 也许是最适合年轻人使用的第三方社区系统。
-* [系统下载吧](http://xtxzb.com) - WinXP、Win7、Win10、Win11。
 
 *macOS系统*
 
