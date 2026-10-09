@@ -19,8 +19,8 @@ Awesome Mac&Windows
   - [系统\&网络相关](#系统网络相关)
     - [WinPE](#winpe)
     - [系统相关](#系统相关)
-    - [软路由\&NAS相关](#软路由nas相关)
     - [科学上网](#科学上网)
+    - [软路由\&NAS相关](#软路由nas相关)
   - [在线资源](#在线资源)
     - [在线工具](#在线工具)
     - [免费资源](#免费资源)
@@ -204,32 +204,16 @@ Awesome Mac&Windows
 
 * [macOS系统下载](https://www.applex.net/pages/macos/)[![Freeware Icon]](wjtao1993&q1-6.)
 
-### 软路由&NAS相关
-* [US.KG](https://nic.us.kg/) - US.KG 由 DigitalPlat 基金会运营和持有。我们的使命是免费为所有人或组织提供免费域名。[![Freeware Icon]](gmail&Wu-..)
-* [3322域名](http://www.pubyun.com/accounts/signin/) - （简称3322动态域名）是专业的互联网服务提供商。[![Freeware Icon]](wjtao1993&Wu-..)
-* [Cloudflare](https://www.cloudflare.com/) - 帮助构建更好的互联网。[![Freeware Icon]](gmail&Wu-..)
-* [Cloudflare-workers/pages代理脚本](https://github.com/yonggekkk/Cloudflare_vless_trojan) - CF-workers/pages代理脚本【Vless与Trojan】，Serv00三合一进程保活脚本。
-* [WebUI-Aria2](https://github.com/ziahamza/webui-aria2) - 该项目的目标是创建世界上最好的、最热门的 aria2 交互界面。
-* [小雅媒体库](https://fuliapp.top/) - 本项目支持AppleTV，安卓TV(智能电视)，手机，平板，电脑等所有平台，不需要科学。
-* [恩山无线论坛](https://www.right.com.cn/forum/) - 恩山无线论坛。[![Freeware Icon]](bsfqoo&Wu-..)
-* [N1盒子](https://github.com/wxfyes/N1packaging) - 基于flippy的打包Phicomm N1的openwrt。
-
-*黑群晖相关*
-* [手把手教您安装黑群晖918+ 6.2保姆级教程，含群晖设置。](https://post.smzdm.com/p/aqx07xmk/)、[黑群晖二合一镜像（6.2.3 和 6.1.7）设置向导、分区自动扩容](https://www.ruoyer.com/dsm2in1.html)、[黑群晖DSM安装教程及详细配置](https://blog.csdn.net/was172/article/details/106176930/)、[PT站抢种神器-qBittorrent群晖NAS安装教程](http://www.ptyqm.com/27515.html)、[群晖NAS安装Transmission以及配置Transmission Web UI](http://www.511yj.com/nas-synology-transmission.html)、
 
 ### 科学上网
 * [DuyaoSS](https://www.duyaoss.com) - 机场测速和简介。
+* [GCPing](https://gcping.com/) - 用于向 Google Cloud 区域报告平均延迟时间。
 * [IP地址查询](http://www.ip111.cn/) - 全方位查询您的IP地址。
 * [查看我的IP地址](https://ip.skk.moe/) - 查找您的 IP 地址、本地 DNS 设置、网络连接、CDN 可用性等。
-* [实时代理和 VPN 检测](https://proxy.incolumitas.com/proxy_detect.html) - 该网站可以检测您的连接是否正在使用代理或 VPN。
-* [Ping0](https://ping0.cc/) - 其它网站识别的是IP所有者的类型，Ping0 识别的是IP实际用在哪里，独家数据，是目前唯一一个识别实际使用者的网站。
-* [GCPing](https://gcping.com/) - 用于向 Google Cloud 区域报告平均延迟时间。
-* [Lantern](https://lantern.io) - 快速且不受限制地访问您喜爱的网站和应用程序。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
-* [Clash for Windows Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - 提供clash for windows的汉化版, 汉化补丁以及汉化版Clash安装程序。
-* [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 下一代 ShadowsocksX。
-* [V2Ray神一样的工具们](https://www.v2ray.com/awesome/tools.html) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
+* [Сайт с рекламой](https://checkadblock.ru) - 带有检查拦截器广告的网站。
 
-*配置文件*
+*工具及配置文件*
+* [Lantern](https://lantern.io) - 快速且不受限制地访问您喜爱的网站和应用程序。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
 * [Shadowrocket 使用](https://www.shadowrocket.vip/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B) - Shadowrocket 使用教程快速入门篇。
     * 其它配置 - [墨鱼](https://github.com/ddgksf2013/Profile/blob/master/Shadowrocket.conf)、[dishao123](https://github.com/dishao123/rules_script/blob/main/Shadowrocket/xhj.conf)、[Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)、
 
@@ -246,33 +230,44 @@ Awesome Mac&Windows
 * [一些合集] - [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)、[莫离](https://github.com/Moli-X/Resources)、[墨鱼](https://github.com/ddgksf2013/ddgksf2013)、[奶思](https://github.com/fmz200/wool_scripts)、[毒奶](https://github.com/limbopro)、[dishao123](https://github.com/dishao123/rules_script)、[Orz-3](https://github.com/Orz-3/QuantumultX)、[yfamily](https://github.com/deezertidal)、
   
 *其它工具*
-* [Lucky爱分享](https://www.evan888.top/2062/) - BoxJs-Script-Hub-Sub-Store-等模块通用的前置教程。
 * [BoxJs](https://docs.boxjs.app/) - BoxJs 是一款运行在 Surge、Quantumult X、Loon、Shadowrocket、Stash 环境下的脚本！
 * [Sub-Store](https://github.com/sub-store-org/Sub-Store) - QX、Loon、Surge、Stash、Egern 和 Shadowrocket 的高级订阅管理器。
 * [Script Hub](https://github.com/Script-Hub-Org/Script-Hub) - 适用于 QX、Loon、Surge、Stash、Egern、LanceX 和 Shadowrocket 的高级脚本转换器 - 重写 & 规则集转换。
-* [EMOJIALL](https://www.emojiall.com/) - 该网站提供了最新、完整的Emoji搜索和相关信息。
+ 
   
+### 软路由&NAS相关
+* [US.KG](https://nic.us.kg/) - US.KG 由 DigitalPlat 基金会运营和持有。我们的使命是免费为所有人或组织提供免费域名。[![Freeware Icon]](gmail&Wu-..)
+* [3322域名](http://www.pubyun.com/accounts/signin/) - （简称3322动态域名）是专业的互联网服务提供商。[![Freeware Icon]](wjtao1993&Wu-..)
+* [Cloudflare](https://www.cloudflare.com/) - 帮助构建更好的互联网。[![Freeware Icon]](gmail&Wu-..)
+* [Cloudflare-workers/pages代理脚本](https://github.com/yonggekkk/Cloudflare_vless_trojan) - CF-workers/pages代理脚本【Vless与Trojan】，Serv00三合一进程保活脚本。
+* [WebUI-Aria2](https://github.com/ziahamza/webui-aria2) - 该项目的目标是创建世界上最好的、最热门的 aria2 交互界面。
+* [小雅媒体库](https://fuliapp.top/) - 本项目支持AppleTV，安卓TV(智能电视)，手机，平板，电脑等所有平台，不需要科学。
+* [恩山无线论坛](https://www.right.com.cn/forum/) - 恩山无线论坛。[![Freeware Icon]](bsfqoo&Wu-..)
+* [N1盒子](https://github.com/wxfyes/N1packaging) - 基于flippy的打包Phicomm N1的openwrt。
+
+*黑群晖相关*
+* [手把手教您安装黑群晖918+ 6.2保姆级教程，含群晖设置。](https://post.smzdm.com/p/aqx07xmk/)、[黑群晖二合一镜像（6.2.3 和 6.1.7）设置向导、分区自动扩容](https://www.ruoyer.com/dsm2in1.html)、[黑群晖DSM安装教程及详细配置](https://blog.csdn.net/was172/article/details/106176930/)、[PT站抢种神器-qBittorrent群晖NAS安装教程](http://www.ptyqm.com/27515.html)、[群晖NAS安装Transmission以及配置Transmission Web UI](http://www.511yj.com/nas-synology-transmission.html)、
+
 
 ## 在线资源
 
 *一些看起来不错的网站。*
 
 ### 在线工具
-* [PaywallBuster](https://paywallbuster.com/) - 将各种致力于绕过令人烦恼的付费墙的网站整合到一个简洁高效的平台上。
+* [PaywallBuster](https://github.com/toplevmas/paywallbuster) - 将各种致力于绕过令人烦恼的付费墙的网站整合到一个简洁高效的平台上。
 * [Convertio](https://convertio.co/zh/) - 以用户体验为核心的文件转换网站。
 * [123APPS](https://123apps.com/cn/) - 用於影片、音訊、PDF 與檔案轉換的線上工具。
-* [Сайт с рекламой](https://checkadblock.ru) - 带有检查拦截器广告的网站。
 * [SimilarWeb](https://www.similarsites.com) - 使用 Similarsites.com（可让您浏览相关内容的扩展程序）发现最佳网站并探索竞争对手和相关网站。
+* [wallhaven](https://wallhaven.cc/) - 一个非常不错的壁纸分享平台。
+* [EMOJIALL](https://www.emojiall.com/) - 该网站提供了最新、完整的Emoji搜索和相关信息。
 * [WzSLinker](https://www.hrfocus.top/) - 网页与炒股软件联动工具。
 * [租会员](http://www.zuxunlei.cn) - 迅雷、百度优、酷账号租用。
 
 ### 免费资源
+* [阅读指南 Readzn](https://github.com/ChrisHyperFunc/readzn) - 发现全球优质免费电子书、漫画绘本、小说与教育学术资源。
 * [Z-Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) - 一个免费的在线图书馆。
-* [Alpha Coders](https://alphacoders.com/) - 一个非常不错的壁纸分享平台。
-* [wallhaven](https://wallhaven.cc/) - 一个非常不错的壁纸分享平台。
 * [Pexels](https://help.pexels.com/hc/en-us) - 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
 * [Unsplash](https://unsplash.com) - 世界上最慷慨的摄影师社区为您提供超过 300 万张免费高分辨率图像。
-* [爱给网](https://www.aigei.com) - 致力于为声音、影视、游戏、动画创作者，提供高品质、多品类、优秀的创意作品服务。
 
 ### 音乐播放&下载
 * [Universal Production Music](https://www.universalproductionmusic.com/en-gb) - 我们的全球资源库涵盖各种类型、氛围和情感，是您获取所有媒体素材的首选。我们在超过 33 个国家/地区设有办事处，提供涵盖电影、电视、广告、游戏、广播、播客、应用程序、可持续制作等各个领域的素材。
